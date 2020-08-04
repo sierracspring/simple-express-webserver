@@ -1,14 +1,10 @@
-What else can you do with Node Packages?
-It can be used to create back-end web applications
-and package managment through npm.
+Throughout this assignment we've used NPM Package 
+and Node Module as if they are the same, 
+while there are similarities, how do they differ 
+from one another?
+-Modules are libraries for Node.js.
+-A package is one or more modules grouped together.
 
-What else can you do with Express?
-It is a node package that allows for server functionality.
-It can be used for hosting and API.
-
-What other technologies could you use instead of Express?
-Other frameworks include Fastify and Koa.
-
-How is hosting in Express different than how you've hosted before?
-What makes hosting Express different that what I'm 
-used to is needing to use the terminal and json files.
+If you create a new Node Module, 
+how do you share that code with the community?
+-This is done through creating a node repository locally.
